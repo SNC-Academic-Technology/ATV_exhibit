@@ -1,13 +1,9 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-ex1,https://raw.githubusercontent.com/kindamessi/test/main/post-visit-wallpaper-ipad-pro-10p5in-0220.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex2,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/sncfall.jpg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex3,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/techbar.jpg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex4,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/70328412892__2CB326FF-DF6E-4E3C-A5CF-569D50046870.HEIC,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex5,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/silly.mp4,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,yes
-ex6,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/milo.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex7,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/cat6.jpg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex8,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/cat7.jpg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex9,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/cat8.jpg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex10,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/cat9.jpg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex11,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/cat10.jpg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
-ex12,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/content/IMG_4546.mp4,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,yes
+ex1,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/conference/arch.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
+ex2,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/conference/campus.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
+ex3,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/conference/communio.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
+ex4,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/conference/fleurs.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
+ex5,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/conference/football.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,n
+ex6,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/conference/gms.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
+ex7,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/conference/main-sun.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
+ex8,https://raw.githubusercontent.com/SNC-Academic-Technology/ATV_exhibit/main/conference/riverfront.jpeg,0:00:10,0:00:20,1/1/18 0:00,12/31/30 23:59,no
